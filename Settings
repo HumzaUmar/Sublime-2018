@@ -1,0 +1,14 @@
+        "color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+	"font_face": "InputMono-Regular",
+	"font_options":
+	[
+		""
+	],
+	"font_size": 14,
+	"ignored_packages"
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
+	"theme": "Adaptive.sublime-theme"
